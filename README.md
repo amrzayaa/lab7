@@ -24,7 +24,6 @@ Git, Github, repository, done, commit, push, pull, remote, repository, local, re
 ## Branch дээр хийсэн өөрчлөлт
 ## Миний мэдээлэл  
  
- Нэр: Amarzaya
- Анги: ПХИ-2
- Мэргэжил: Программ хангамжийн инженерчлэл
- 
+    - Нэр: Amarzaya
+    - Анги: ПХИ-2
+    - Мэргэжил: Программ хангамжийн инженерчлэл
