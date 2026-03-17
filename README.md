@@ -22,3 +22,9 @@ Git, Github, repository, done, commit, push, pull, remote, repository, local, re
     - GitHub account
     - Интернэт холболт
 ## Branch дээр хийсэн өөрчлөлт
+## Миний мэдээлэл  
+ 
+ Нэр: Amarzaya
+ Анги: ПХИ-2
+ Мэргэжил: Программ хангамжийн инженерчлэл
+ 
