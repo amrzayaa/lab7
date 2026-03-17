@@ -21,3 +21,4 @@ Git, Github, repository, done, commit, push, pull, remote, repository, local, re
     - Git Bash
     - GitHub account
     - Интернэт холболт
+## Branch дээр хийсэн өөрчлөлт
